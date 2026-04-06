@@ -105,7 +105,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/balaji-nidavanche-a31363294"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://linkedin.com/in/balaji-nidavanche"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:bmn636169@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://github.com/Balaji2004-bmn"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
