@@ -67,9 +67,10 @@ I'm a passionate developer with a keen interest in building innovative software 
 </div>
 
 ### 🏆 Trophies
+### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Balaji2004-bmn&theme=radical&column=7" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Balaji2004-bmn&theme=tokyonight&column=7&margin-w=15" alt="trophies" />
   </a>
 </p>
 
