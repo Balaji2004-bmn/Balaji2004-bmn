@@ -1,4 +1,4 @@
-ĺ# 👋 Hello, I'm Balaji
+# 👋 Hello, I'm Balaji
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=2E77F7&center=true&vCenter=true&width=435&lines=FullStackWeb+Developer;Problem+Solver;Tech+Enthusiast;Continuous+Learner" alt="Typing SVG" />
@@ -102,5 +102,4 @@ I'm a passionate developer with a keen interest in building innovative software 
   <img src="https://komarev.com/ghpvc/?username=Balaji2004-bmn&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
----
 
