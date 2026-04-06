@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Balaji
+ # 👋 Hello, I'm Balaji
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=2E77F7&center=true&vCenter=true&width=435&lines=FullStackWeb+Developer;Problem+Solver;Tech+Enthusiast;Continuous+Learner" alt="Typing SVG" />
@@ -66,10 +66,12 @@ I'm a passionate developer with a keen interest in building innovative software 
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Balaji2004-bmn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Balaji2004-bmn&theme=algolia&no-frame=true&no-bg=true&row=1" alt="GitHub Trophies" />
-</div>
+### 🏆 Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Balaji2004-bmn&theme=radical&column=7" alt="trophies" />
+  </a>
+</p>
 
 
 
