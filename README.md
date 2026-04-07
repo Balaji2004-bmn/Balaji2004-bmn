@@ -122,6 +122,6 @@
 
 ## ⚡ Fun Fact
 
-💡 “I turn ideas into scalable software 🚀”
+💡 “I turn ideas into scalable software 🚀👍”
 
 ---
