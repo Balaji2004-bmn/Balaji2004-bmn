@@ -187,14 +187,11 @@ Serverless CRUD application using AWS Lambda, API Gateway and DynamoDB.
 <!-- ====================================== -->
 
 # 📊 GitHub Statistics
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Balaji2004-bmn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Balaji2004-bmn&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji2004-bmn&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji2004-bmn&layout=compact&theme=tokyonight&hide_border=true" />
 
-</p>
 
 
 ---
@@ -202,7 +199,7 @@ Serverless CRUD application using AWS Lambda, API Gateway and DynamoDB.
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Balaji2004-bmn&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Balaji2004-bmn&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -221,16 +218,9 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Balaji2004-b
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Balaji2004-bmn&theme=tokyonight&no-frame=true&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Balaji2004-bmn&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
----
-
-# 📅 Contribution Calendar
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Balaji2004-bmn&theme=tokyo-night&hide_border=true" />
-</p>
 
 ---
 
